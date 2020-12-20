@@ -1,4 +1,10 @@
-## Hey ich bin ouihq
+## Hey i'm ouihq
+I'm a german developer
+
+<br />
+
+## Contact me
+<img align="left" alt="ouihq | Discord" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />]https://aurelis.xyz/discord)
 
 <br />
 
