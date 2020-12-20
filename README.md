@@ -1,11 +1,10 @@
-## Hey i'm ouihq
-I'm a german developer
+### Hey i'm ouihq
 
 <br />
 
 ## Contact me
 [<img align="left" alt="ouihq | Discord" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](https://aurelis.xyz/discord)
-[<img align="left" alt="ouihq | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/ouihq1)
+[<img align="left" alt="ouihq | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/ouihq1)
 
 <br />
 
