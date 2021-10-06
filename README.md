@@ -11,7 +11,7 @@
 <br />
 
 ## Tools
-<img align="left" alt="MongoDB" width="30px" src"https://e7.pngegg.com/pngimages/768/167/png-clipart-mongodb-nosql-document-oriented-database-nosql-icon-leaf-grass.png" />
+<img align="left" alt="MongoDB" width="30px" src"https://assets-global.website-files.com/6009f6f109d51e60b911ba53/60232c7fee9f278674db9c2c_9kib-354x415-unnamed-mongodb-logo-sv-11562860723mgempnmrq3.png" />
 <img align="left" alt="GitHub" width="30px" src="https://external-preview.redd.it/ajIJ7FC6p3-Pq0MTyX1I9rCbf2HlJ6mNArm8E7hgJXw.jpg" />
 <img align="left" alt="InteliJ" width="30px" src="https://github.com/ouihq/ouihq/blob/main/icons/intelij.png" />
 <img align="left" alt="Rider" width="30px" src="https://github.com/ouihq/ouihq/blob/main/icons/rider.png" />
