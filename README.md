@@ -11,7 +11,7 @@
 <br />
 
 ## Tools
-<img align="left" alt="mongoDB" width="30px" src="https://github.com/github/explore/blob/main/topics/mongodb/mongodb.png?raw=true" />
+<img align="left" alt="MongoDB" width="30px" src="https://gocode.colorado.gov/wp-content/uploads/2020/11/MongoDB-sm-logo-500x400.gif" />
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png?" />
 <img align="left" alt="InteliJ" width="30px" src="https://github.com/ouihq/ouihq/blob/main/icons/Intellij.png" />
 
