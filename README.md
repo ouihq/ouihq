@@ -12,7 +12,7 @@
 
 ## Tools
 <img align="left" alt="MongoDB" width="30px" src"" />
-<img align="left" alt="GitHub" width="30px" src="https://external-preview.redd.it/ajIJ7FC6p3-Pq0MTyX1I9rCbf2HlJ6mNArm8E7hgJXw.jpg" />
+<img align="left" alt="GitHub" width="30px" src="" />
 <img align="left" alt="InteliJ" width="30px" src="https://github.com/ouihq/ouihq/blob/main/icons/intelij.png" />
 <img align="left" alt="Rider" width="30px" src="https://github.com/ouihq/ouihq/blob/main/icons/rider.png" />
 <img align="left" alt="PyCharm" width="30px" src="https://github.com/ouihq/ouihq/blob/main/icons/pycharm.png" />
