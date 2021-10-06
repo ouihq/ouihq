@@ -12,7 +12,7 @@
 
 ## Tools
 <img align="left" alt="MongoDB" width="30px" src="https://gocode.colorado.gov/wp-content/uploads/2020/11/MongoDB-sm-logo-500x400.gif" />
-<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png?" />
+<img align="left" alt="GitHub" width="30px" src="https://external-preview.redd.it/ajIJ7FC6p3-Pq0MTyX1I9rCbf2HlJ6mNArm8E7hgJXw.jpg?auto=webp&s=100c3caebf7b78e17218432dd6a2f3ad5cef9c14" />
 <img align="left" alt="InteliJ" width="30px" src="https://github.com/ouihq/ouihq/blob/main/icons/intelij.png" />
 <img align="left" alt="Rider" width="30px" src="https://github.com/ouihq/ouihq/blob/main/icons/rider.png" />
 <img align="left" alt="PyCharm" width="30px" src="https://github.com/ouihq/ouihq/blob/main/icons/pycharm.png" />
