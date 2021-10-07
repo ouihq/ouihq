@@ -11,7 +11,6 @@
 <br />
 
 ## Tools
-<img align="left" alt="MongoDB" width="30px" src"https://www.pngrepo.com/download/331488/mongodb.png" />
 <img align="left" alt="GitHub" width="30px" src="https://ilkerkaran.com/img/github-light.png" />
 <img align="left" alt="InteliJ" width="30px" src="https://github.com/ouihq/ouihq/blob/main/icons/intelij.png" />
 <img align="left" alt="Rider" width="30px" src="https://github.com/ouihq/ouihq/blob/main/icons/rider.png" />
