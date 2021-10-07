@@ -16,7 +16,7 @@
 <img align="left" alt="PyCharm" width="30px" src="https://github.com/ouihq/ouihq/blob/main/icons/pycharm.png" />
 <img align="left" alt="WebStorm" width="30px" src="https://github.com/ouihq/ouihq/blob/main/icons/webstorm.png" />
 <img align="left" alt="MongoDB" width="30px" src="https://github.com/ouihq/ouihq/blob/main/icons/mongodb.png" />
-<img align="left" alt="MongoDB" width="30px" src="https://github.com/ouihq/ouihq/blob/main/icons/mongodb.png" />
+<img align="left" alt="GitHub" width="30px" src="https://ilkerkaran.com/img/github-light.png" />
 
 <br />
 
