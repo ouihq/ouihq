@@ -1,5 +1,5 @@
 ## Hey i'm ouihq
-I started programming 2 years ago and tried to improve my knowledge with every project i started
+I work as a Software Developer and my current Projekt is CraftSource more informations coming soon
 <br />
 
 ## Contact me
