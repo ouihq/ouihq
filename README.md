@@ -22,4 +22,7 @@ I work as a Software Developer and my current Projekt is CraftSource more inform
 <br />
 
 ## Languages
+<img align="left" alt="Python" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" />
+<img align="left" alt="Java" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" />
+<img align="left" alt="C#" width="30px" src="https://iconape.com/wp-content/files/km/370669/svg/c-sharp-logo-icon-png-svg.png" />
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@c737f859-c889-4bfd-a2c7-145751dc7d94/fcc0b428-30ec-4e16-9145-28bb53373b9e.svg" /></a>
