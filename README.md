@@ -27,4 +27,4 @@ I work as a Software Developer and my current Projekt is CraftSource more inform
 <br />
 
 ##Activity
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@c737f859-c889-4bfd-a2c7-145751dc7d94/61101b76-9be2-475b-9e49-c1ca2fa76435.svg" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@c737f859-c889-4bfd-a2c7-145751dc7d94/c3c4e5ea-94a1-439c-831d-0b6e0d0c5777.svg" /></a>
