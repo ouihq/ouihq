@@ -23,8 +23,3 @@ I work as a Software Developer and my current Projekt is CraftSource more inform
 
 ## Languages
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@c737f859-c889-4bfd-a2c7-145751dc7d94/fcc0b428-30ec-4e16-9145-28bb53373b9e.svg" /></a>
-
-<br />
-
-##Activity
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@c737f859-c889-4bfd-a2c7-145751dc7d94/c3c4e5ea-94a1-439c-831d-0b6e0d0c5777.svg" /></a>
