@@ -2,6 +2,8 @@
 I work as a Software Developer and my current Projekt is CraftSource more informations coming soon
 <br />
 
+
+
 ## Contact me
 [<img align="left" alt="ouihq | Discord" width="30px" src="https://seeklogo.com/images/D/discord-color-logo-E5E6DFEF80-seeklogo.com.png" />](https://aurelis.xyz/discord)
 [<img align="left" alt="ouihq | Twitter" width="30px" src="https://upload.wikimedia.org/wikipedia/de/9/9f/Twitter_bird_logo_2012.svg" />](https://twitter.com/ouihq1)
@@ -20,3 +22,4 @@ I work as a Software Developer and my current Projekt is CraftSource more inform
 <br />
 
 ## Languages
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@c737f859-c889-4bfd-a2c7-145751dc7d94/6919bc45-1540-43d5-a987-c0de5fbb699c.svg" /></a>
